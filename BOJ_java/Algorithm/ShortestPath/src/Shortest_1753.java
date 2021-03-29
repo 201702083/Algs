@@ -31,6 +31,7 @@ public class Shortest_1753 {
         k = Integer.parseInt(br.readLine());
         list = new ArrayList[v + 1];
         dist = new int[v + 1];
+
         Arrays.fill(dist, INF);
 
         for(int i = 1; i <= v; i++){
