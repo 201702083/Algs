@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class solution {
+public class boj_2473 {
     static long min = 3000000000L; // 세 용액의 최대 합 3,000,000,000
     public static void main(String[] args)  {
         Scanner sc = new Scanner(System.in);
