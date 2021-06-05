@@ -2,11 +2,12 @@
 
 ## [JAVA]
 - Sort
-        - BasicSort 
-        - Topological
+        * BasicSort 
+        * Topological
 - DAC
-        - Z ( 1074 ) 
-        - 쿼드트리 ( 1992 )
+        * Z ( 1074 ) 
+        * 쿼드트리 ( 1992 )
+
 - DP
 - dijkstra      
      
