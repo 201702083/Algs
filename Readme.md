@@ -1,14 +1,14 @@
 # BOJ solution with JAVA , PYTHON
--asdf
-       -asdf
-       -asdf
-              -fdg
-              -gdf
-       -asdf
-              -asdf
-              -asdf
-                -fdsf
-                -asdf
+
+- asdf
+  - sdf
+       - asdf
+       - asdf
+       - dd
+  - ff
+    - sdf
+    - fsadf
+    - sadf
               
 ## [JAVA]
 - Sort
