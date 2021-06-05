@@ -1,7 +1,7 @@
 # BOJ solution with JAVA , PYTHON
 
-##[JAVA]
-###- Algorithm
+## [JAVA]
+### - Algorithm
       - Sort
         - BasicSort 
         - Topological
