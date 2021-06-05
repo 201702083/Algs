@@ -14,5 +14,5 @@
 clear
 
 
-##[PYTHON]
+##[PYTHON]ㄴ
 clear
