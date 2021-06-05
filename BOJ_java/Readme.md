@@ -7,7 +7,11 @@
 - DP
 - dijkstra      
      
-
++afsd
+       +fsadf
+       +gsdf
+              +fsdaf
+              +fdsf
 clear
 
 
