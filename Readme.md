@@ -1,29 +1,25 @@
 # BOJ solution with JAVA , PYTHON
-
-- asdf
-  - sdf
-       - asdf
-       - asdf
-       - dd
-  - ff
-    - sdf
-    - fsadf
-    - sadf
               
 ## [JAVA]
 - Sort
-       - basic
-       - ghi
+   - BasicSort
+       - 세 용액 2473 
+   - Topological
+       - 최종순위 3665
+- DAC
+   - Z 1074
+   - 쿼드트리 1992
 - DP
-- dijkstra      
-     
-+afsd
-       +fsadf
-       +gsdf
-              +fsdaf
-              +fdsf
-clear
+   - ACM craft 1005
+- Dijkstra
+   - ShortestPath 1753
+## clear !
+
+------------------
 
 
-##[PYTHON]ㄴ
-clear
+##[PYTHON]
+- BruteForce
+   - 퇴사 14501
+
+## clear !
