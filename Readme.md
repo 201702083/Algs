@@ -15,6 +15,7 @@
 - DP
    - ACM craft 1005
    - 욕심쟁이 판다 1937
+   - 점프 1890 ... 문제 조건을 자세히 보는 습관을 기르자.
    
 - Dijkstra
    - ShortestPath 1753
