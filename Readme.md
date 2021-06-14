@@ -2,6 +2,9 @@
               
 ## JAVA
 
+- DS
+   - Stack
+      - 크게 만들기 2812 , 최적의 데이터 타입 고르기
 - Sort
    - BasicSort
        - 세 용액 2473 
