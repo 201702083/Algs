@@ -46,3 +46,10 @@
    - 문서 탐색 1543
 
 ## clear !
+
+------------------
+
+# Leetcode solution
+
+- #1 Two sum
+- #2 Add two numbers
