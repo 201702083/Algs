@@ -54,4 +54,7 @@
 - #1 Two sum
 - #2 Add two numbers
 - #3 Longest substring without repetitive character
-- #4 Longest Palindromic Substring 
+- #4 Median of Two Sorted Arrays
+- #5 Longest Palindromic Substring 
+- #6 ZigZag Conversion
+
