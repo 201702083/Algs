@@ -1,4 +1,4 @@
-# BOJ solution with JAVA , PYTHON
+# Algorithm solution with JAVA , PYTHON
               
 ## JAVA
 
