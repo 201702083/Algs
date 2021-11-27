@@ -8,6 +8,7 @@
 - Sort
    - BasicSort
        - 세 용액 2473 
+       - 거리의 합 2399
    - Topological
        - 최종순위 3665
        
