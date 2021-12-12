@@ -76,6 +76,7 @@
 - Level 1
 - Level 2
   - KakaoBlind2019 OpenTalk
+  - KaKaoBlind2019 CandidateKey
 - Level 3
 - Level 4
 - Level 5
